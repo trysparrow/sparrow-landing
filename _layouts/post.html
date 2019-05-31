@@ -15,8 +15,8 @@ layout: base
     <div class="container">
       <div class="blog-post-header">
         <div class="blog-post-author">
-	  {% for person_id in page.authors %}
-	  <img src="/assets/images/faces/{{ person.face }}">
+	  {% for person in page.authors %}
+	  <img src="/assets/images/faces/{{ site.data.people[person].face }}">
 	  {% endfor %}
           <head><style>.top {
             position: absolute;
@@ -25,10 +25,10 @@ layout: base
             z-index: 1;
            }
           </style></head>
-	  By <span>Deborah H., Britteny C. {{ page.authors.name }}</span>
+	  By <span>{% for p in page.authors %}{{ site.data.people[p].display_name }}{% if p != page.authors[-1] %}, {% endif %}{% endfor %}</span>
         </div>
         <div class="blog-post-date">
-		Date <span>{{ page.date }}</span>
+		Date <span>{{ page.date | date: "%d %b %Y" }}</span>
         </div>
         <div class="blog-post-share">
           Share this post:
@@ -46,69 +46,10 @@ layout: base
 
 	{{ content }}
 
-          <h2 align="center"> Connect with Us!</h2>
-
-          <!-- Start Social Media Buttons -->
-          <head>
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-            <style>
-            .fa {
-              padding: 20px;
-              font-size: 30px;
-              width: 50px;
-              text-align: center;
-              text-decoration: none;
-              margin: 5px 2px;
-            }
-
-            .fa:hover {
-                opacity: 0.7;
-            }
-
-            .fa {
-              padding: 12px;
-              font-size: 20px;
-              width: 40px;
-              text-align: center;
-              text-decoration: none;
-              border-radius: 50%;
-}
-
-            .fa-facebook {
-              background: #3B5998;
-              color: white;
-            }
-
-            .fa-twitter {
-              background: #55ACEE;
-              color: white;
-            }
-            .fa-linkedin {
-              background: #007bb5;
-              color: white;
-            }
-            .fa-envelope {
-              background: #3B5998;
-              color: white;
-            }
-          </style>
-</head>
-
-<center>
-
-  <!-- Add font awesome icons -->
-  <a href="https://www.facebook.com/TrySparrowHQ/" class="fa fa-facebook"></a>
-  <a href="https://twitter.com/trySparrowHQ" class="fa fa-twitter"></a>
-  <a href="https://www.linkedin.com/company/trysparrow/" class="fa fa-linkedin"></a>
-  <a href="https://trysparrow.com/#signup" class="fa fa-envelope"></a>
-</center>
-       <p></p>
-        <p></p>
-        <p></p>
-          </div>
+  {% include social_footer.html %}
+         </div>
 
       </div>
     </div>
   </div>
-  {% include navbar.html %}
+  {% include mail_footer.html %}

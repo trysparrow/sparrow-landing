@@ -1,0 +1,19 @@
+debh:
+  display_name: "Deborah Hanus"
+  face: "author-dhanus.jpg"
+
+bric:
+  display_name: "Britteny Cheng"
+  face: "author-britteny.jpg"
+
+krye:
+  display_name: "Krystal Elkhoury"
+  face: "author-krystal.jpg"
+
+antr:
+  display_name: "Antonio Rowry"
+  face: "author-antonio.jpg"
+
+wasd:
+  display_name: "Waseem Daher"
+  face: "waseem.jpg"

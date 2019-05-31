@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "Introducing Sparrow"
-authors: [debh, britc]
+authors:
+ - debh
+ - bric
 mins_read: "3"
 description: "The simplest way to provide employees with seamless leave."
 banner: "reading.jpg"
+permalink: "/blog/introducing-sparrow"
 ---
 ## What is Sparrow?
 
@@ -29,11 +32,11 @@ Companies often don’t have the information they need to keep track of regulati
   </div> -->
 </div>
 
-##Can I use Sparrow?
+## Can I use Sparrow?
 
 Many of the regulations associated with leave vary from state to state. To start, we’re selling our software to companies with employees in California. If you’re interested in Sparrow, let us know! We’ll be rolling out nationwide as soon as we can.
 
-##How can I help?
+## How can I help?
 
 Right now, we’re focused on customer acquisition. If you know anyone who either (a) is about to take a leave from work, (b) has a colleague that is going to take a leave soon, or (c) wants to put together a leave policy for their company, please have them get in touch.
 
