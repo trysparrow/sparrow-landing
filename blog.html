@@ -1,0 +1,58 @@
+---
+layout: base
+title: Blog
+---
+
+  <div class="blog-cols-header">
+    <div class="container">
+      <h1>
+        Get the latest thoughts & news
+      </h1>
+      <p>
+        Latest updates, projects and interesting news from our company
+      </p>
+    </div>
+  </div>
+
+  <div class="blog-cols-wrapper">
+    <div class="container">
+{% for post in site.posts %}
+<a href="{{ post.url }}" class="post">
+    <div class="post-wrapper">
+      <div class="post-bg" style="background-image: url('/assets/images/banners/{{ post.banner }}');"></div>
+      <div class="post-intro">
+        <div class="post-title">{{ post.title }}</div>
+        <div class="post-min-read">{{ post.mins_read }} min read</div>
+        <p class="post-description">{{ post.description }}</p>
+      </div>
+    </div>
+</a>
+{% endfor %}
+<!-- Start: Page turner (when we have more blogs) -->
+  <!-- <nav class="blog-pager">
+    <ul class="pagination justify-content-center">
+      <li class="page-item">
+        <a class="page-link" href="#">&larr;Previous Previous</a>
+      </li>
+      <li class="page-item">
+        <a class="page-link" href="#">1</a>
+      </li>
+      <li class="page-item active">
+        <a class="page-link" href="#">2</a>
+      </li>
+      <li class="page-item">
+        <a class="page-link" href="#">3</a>
+      </li>
+      <li class="page-item">
+        <a class="page-link" href="#">4</a>
+      </li>
+      <li class="page-item">
+        <a class="page-link" href="#">Next &rarr;</a>
+      </li>
+    </ul>
+  </nav> -->
+  <!-- End: Page turner (when we have more blogs) -->
+</div>
+</div>
+
+
