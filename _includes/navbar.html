@@ -1,4 +1,7 @@
-  <nav class="navbar navbar-expand-lg navbar-dark bg-transparent" role="navigation">
+<nav class="navbar navbar-expand-lg
+	{% if page.transparent_navbar %} navbar-dark bg-transparent
+	{% else %} navbar-light
+	{% endif %}" role="navigation">
     <div class="container no-override">
       <a class="navbar-brand" href="">
 	<img src="/assets/images/logo.png" class="d-none d-lg-inline mr-2 w-25" />
