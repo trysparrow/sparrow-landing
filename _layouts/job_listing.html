@@ -1,0 +1,33 @@
+---
+layout: base
+---
+
+<div class="career-post-header" style="background-image:url(/assets/images/banners/{{ page.banner }});">
+    <section class="container">
+      <div class="row">
+        <div class="col-12">
+          <h1>
+	    {{ page.job_title }}
+          </h1>
+          <p>
+		  {{ page.job_location }}
+          </p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div class="career-post-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+		{{ content }}
+         <div class="apply-now">
+            <a href="http://bit.ly/joinsparrowcrew" class="btn-shadow btn-shadow-primary">
+              Apply now
+            </a>
+          </div>
+	  {% include social_footer.html %}
+          </div>
+          </div>
+          </div>
