@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- og stuff -->
-  {% assign image = page.banner | default: "reading.jpg" %}
+  {% assign image = page.preview | default: page.banner | default: "reading.jpg" %}
   {% assign image = site.url | append: "/assets/images/banners/" | append: image %}
   {% assign description = page.description | default: site.description %}
   <meta property="og:site_name" content="Sparrow"/>
