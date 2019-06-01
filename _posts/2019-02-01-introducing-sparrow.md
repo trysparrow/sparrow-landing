@@ -9,6 +9,7 @@ description: "The simplest way to provide employees with seamless leave."
 banner: "reading.jpg"
 permalink: "/blog/introducing-sparrow"
 ---
+
 ## What is Sparrow?
 
 Sparrow is a software-based service that is the simplest way for companies to provide their employees with extended leave (i.e. family leave, medical leave, etc).

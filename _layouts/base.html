@@ -7,17 +7,20 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- og stuff -->
+  {% assign image = page.banner | default: "reading.jpg" %}
+  {% assign image = site.url | append: "/assets/images/banners/" | append: image %}
+  {% assign description = page.description | default: site.description %}
   <meta property="og:site_name" content="Sparrow"/>
   <meta property="og:title" content="Sparrow | {{ page.title }}"/>
-  <meta property="og:url" content="page.url"/>
-  <meta property="og:description" content="We take care of employee leave, so you don't have to."/>
-  <meta property="og:image" content="http://trysparrow.com/static/home/images/unsplash/reading.jpg"/>
+  <meta property="og:url" content="{{ site.url | append: page.url }}"/>
+  <meta property="og:description" content="{{ description }}"/>
+  <meta property="og:image" content="{{ image }}"/>
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@trySparrowHQ"/>
-  <meta name="twitter:title" content="Sparrow"/>
-  <meta name="twitter:description" content="We take care of employee leave, so you don't have to." />
-  <meta name="twitter:image" content="http://trysparrow.com/static/home/images/unsplash/reading.jpg" /><!--TODO: change to jekyll path-->
+  <meta name="twitter:title" content="Sparrow | {{ page.title }}"/>
+  <meta name="twitter:description" content="{{ description }}" />
+  <meta name="twitter:image" content="{{ image }}" />
 
   <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
   <link rel="shortcut icon" href="/assets/images/favicon.ico">
