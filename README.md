@@ -1,5 +1,5 @@
-Prefix branches for new features and pages with `f-`  
-Prefix branches for updating content like new posts with `u-`  
+Prefix branches for new features and new site pages with `f-`  
+Prefix branches for updating content like new blog posts, typo fixes, and changing images with `u-`  
 
 Authors and everyone with a name and photo are listed in _data\/people.yml by the first three letters of their given name and first letter of their surname. For instance, our benevolent overlord would be debh. I don't know why I made this so complicated.
 
