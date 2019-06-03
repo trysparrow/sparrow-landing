@@ -24,10 +24,12 @@ Deborah Hanus founded Sparrow to provide a solution for managing leave at compan
 Parents don't have the information they need to plan their leave and manage the necessary paperwork.  It is common to make mistakes with paperwork or not receive proper pay. Like TurboTax, Sparrow ensures that the necessary endorsements are acquired, and the paperwork is filed properly and on time.
 
 Companies often don’t have the information they need to keep track of regulations, plan for payroll changes, and ensure that the employee has a good leave. We save companies time and money by managing the endorsements, regulations, and developing a personalized payroll plan for each employee and ensuring that they have the information they need and save as much money as possible, while supporting their employee.
+
 <div class="blog-post-quote-wrapper">
   <div class="quote">
     Sparrow is a software-based service that makes it simple for all companies to provide leave (such family leave, disability, etc.), so no one needs to choose between the people they love and the job that they love.
   </div>
+  
   <!-- <div class="author">
     Jessica Jones, Founder/CEO
   </div> -->
@@ -40,4 +42,3 @@ Many of the regulations associated with leave vary from state to state. To start
 ## How can I help?
 
 Right now, we’re focused on customer acquisition. If you know anyone who either (a) is about to take a leave from work, (b) has a colleague that is going to take a leave soon, or (c) wants to put together a leave policy for their company, please have them get in touch.
-

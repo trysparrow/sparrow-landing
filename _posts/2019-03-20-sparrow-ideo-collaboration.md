@@ -10,56 +10,61 @@ banner: "../world/ideo-collab/ideo-collab-4.jpeg"
 permalink: "/blog/sparrow-ideo-collaboration"
 ---
 
-<p align="center"> A few weeks ago, IDEO invited Sparrow to collaborate on designing our marketing materials. We bundled in on a rainy day by the Bay Bridge on Embarcadero and sprinted on some great ideas. In fact, IDEO helped us draft our new landing page that we launched last week! We're thankful we got to work with such vibrant, creative and compassionate folks. </p>
-<p align="center">Check out these behind-the-scene photos!</p>
+<p align="center">
+  A few weeks ago, IDEO invited Sparrow to collaborate on designing our marketing materials. We bundled in on a rainy day by the Bay Bridge on Embarcadero and sprinted on some great ideas. In fact, IDEO helped us draft our new landing page that we launched last week! We're thankful we got to work with such vibrant, creative and compassionate folks.
+</p>
+
+<p align="center">
+  Check out these behind-the-scene photos!
+</p>
 
 <style>
-div.gallery {
-  border: 0px solid #ccc;
-}
-
-div.gallery:hover {
-  border: 0px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: center;
-  width: 100%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
+  div.gallery {
+    border: 0px solid #ccc;
   }
-}
 
-@media only screen and (max-width: 500px) {
+  div.gallery:hover {
+    border: 0px solid #777;
+  }
+
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
   .responsive {
+    padding: 0 6px;
+    float: center;
     width: 100%;
   }
-}
 
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+  @media only screen and (max-width: 700px) {
+    .responsive {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+  }
+
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 </style>
 
 
@@ -108,4 +113,3 @@ div.desc {
     <div class="desc">Whether your team is 5 employees or 50,000 employees, Sparrow will save you time (20-40 hours per leave), money ($10-20K per leave), and headache. If you'd like to learn more about what we can do for your team, please reach out by signing up below!</div>
   </div>
 </div>
-

@@ -1,89 +1,150 @@
-<!doctype html>
-<html class="no-js" lang="">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Sparrow | {{ page.title }}</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <!-- og stuff -->
-  {% assign image = page.preview | default: page.banner | default: "reading.jpg" %}
-  {% assign image = site.url | append: "/assets/images/banners/" | append: image %}
-  {% assign description = page.description | default: site.description %}
-  <meta property="og:site_name" content="Sparrow"/>
-  <meta property="og:title" content="Sparrow | {{ page.title }}"/>
-  <meta property="og:url" content="{{ site.url | append: page.url }}"/>
-  <meta property="og:description" content="{{ description }}"/>
-  <meta property="og:image" content="{{ image }}"/>
+<meta charset="utf-8"></meta>
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@trySparrowHQ"/>
-  <meta name="twitter:title" content="Sparrow | {{ page.title }}"/>
-  <meta name="twitter:description" content="{{ description }}" />
-  <meta name="twitter:image" content="{{ image }}" />
+<meta
+  http-equiv="X-UA-Compatible"
+  content="IE=edge">
+</meta>
 
-  <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
-  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+<title>Sparrow | {{ page.title }}</title>
 
-  <!-- stylesheets -->
-  <link rel="stylesheet" type="text/css" href="/assets/css/theme.min.css" />
-  <link rel="stylesheet" type="text/css" href="/assets/css/sparrow-overrides.css" />
+<meta
+  name="description"
+  content>
+</meta>
 
-  <!-- javascript -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-  <script src="/assets/js/theme.min.js"></script>
-  <script src="/assets/js/driftt.js"></script>
-</head>
-<body>
-  <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</meta>
 
-  <!--[if lt IE 8]>
-    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-  <![endif]-->
+<!-- og stuff -->
 
-  {% include navbar.html %}
+{% assign image = page.preview | default: page.banner | default: "reading.jpg" %}
+{% assign image = site.url | append: "/assets/images/banners/" | append: image %}
+{% assign description = page.description | default: site.description %}
 
-  {{ content }}
+<meta
+  property="og:site_name"
+  content="Sparrow">
+</meta>
 
-  <div class="footer-light">
-    <div class="container">
-      <span>
-        © Sparrow 2019
-      </span>
-      <a href="#product">Product</a>
-      <a href="/blog/">Blog</a>
-<!--       <a href="careers.html">Careers</a> -->
-    </div>
+<meta
+  property="og:title"
+  content="Sparrow | {{ page.title }}">
+</meta>
+
+<meta
+  property="og:url"
+  content="{{ site.url | append: page.url }}">
+</meta>
+
+<meta
+  property="og:description"
+  content="{{ description }}">
+</meta>
+
+<meta
+  property="og:image"
+  content="{{ image }}">
+</meta>
+
+<meta
+  name="twitter:card"
+  content="summary">
+</meta>
+
+<meta
+  name="twitter:site"
+  content="@trySparrowHQ">
+</meta>
+
+<meta
+  name="twitter:title"
+  content="Sparrow | {{ page.title }}">
+</meta>
+
+<meta
+  name="twitter:description"
+  content="{{ description }}">
+</meta>
+
+<meta
+  name="twitter:image"
+  content="{{ image }}">
+</meta>
+
+<!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
+
+<link
+  href="/assets/images/favicon.ico"
+  rel="shortcut icon">
+</link>
+
+<!-- stylesheets -->
+
+<link
+  href="/assets/css/theme.min.css"
+  rel="stylesheet"
+  type="text/css">
+</link>
+
+<link
+  href="/assets/css/sparrow-overrides.css"
+  rel="stylesheet"
+  type="text/css">
+</link>
+
+<!-- javascript -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+<script src="/assets/js/theme.min.js"></script>
+
+<script src="/assets/js/driftt.js"></script>
+
+<!--
+  [if lt IE 9]>     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]
+-->
+
+<!--
+  [if lt IE 8]>     <p class="browsehappy">You are using an <strong>outdated</strong> browser.
+  Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]
+-->
+
+{% include navbar.html %}    {{ content }}
+
+<div class="footer-light">
+  <div class="container">
+    <span>© Sparrow 2019</span>
+
+    <a href="#product">Product</a>
+
+    <a href="/blog/">Blog</a>
+
+    <!-- <a href="careers.html">Careers</a> -->
   </div>
+</div>
 
-
-  <script type="text/javascript">
-    $(function () {
-      var trigger = new ScrollTrigger({
-        toggle: {
-          visible: 'customFadeInUp'
-        },
-        offset: {
-          y: 150
-        },
-        once: true
-      });
+<script type="text/javascript">
+  $(function () {
+    var trigger = new ScrollTrigger({
+      toggle: {visible:'customFadeInUp'},
+      offset: {y: 150},
+      once: true
     });
-  </script>
-
+  });
+</script>
 
 <!-- Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-122053301-1', 'auto');
-ga('send', 'pageview');
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');  ga('create',
+  'UA-122053301-1', 'auto'); ga('send', 'pageview');
 </script>
+
 <!-- End Google Analytics -->
-</body>
-</html>
