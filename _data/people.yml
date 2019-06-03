@@ -17,3 +17,11 @@ antr:
 wasd:
   display_name: "Waseem Daher"
   face: "waseem.jpg"
+
+pilo:
+  display_name: "Pilot"
+  face: "pilotface.ico"
+
+spar:
+  display_name: "Sparrow"
+  face: "sparrowface.png"

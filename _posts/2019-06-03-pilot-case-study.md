@@ -2,12 +2,14 @@
 layout: post
 title: "Sparrow case study: Pilot"
 authors:
- - krye
+ - pilo
+ - spar
 mins_read: "2"
 description: "Why Pilot chose Sparrow to manage all their leave needs."
 banner: "pilot-heart-sparrow.png"
 permalink: "/blog/pilot-case-study"
 is_case_study: true
+published: false
 ---
 
 # A Partnership that Makes Sense
@@ -25,7 +27,7 @@ With all their experience, the founders know how essential investing in work-lif
     <tr>
       <td>
         <div class="blog-post-author">
-          <img class="top" src="/assets/images/faces/waseem.jpg">
+          <img class="top" src="/assets/images/faces/{{ site.data.people['wasd'].face }}">
         </div>
       </td>
 
