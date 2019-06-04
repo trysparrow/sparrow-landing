@@ -119,11 +119,13 @@
   <div class="container">
     <span>© Sparrow 2019</span>
 
-    <a href="#product">Product</a>
+    {% for link in site.data.nav %}
+      <a
+        href="{{ link.url }}">
+        {{ link.label }}
+      </a>
+    {% endfor %}
 
-    <a href="/blog/">Blog</a>
-
-    <!-- <a href="careers.html">Careers</a> -->
   </div>
 </div>
 
