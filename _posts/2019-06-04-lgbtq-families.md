@@ -5,8 +5,8 @@ authors:
  - krye
 mins_read: "5"
 description: "Understanding Parental Leave Rights of LGBTQ+ Families"
-preview: ".jpeg"
-banner: ".jpeg"
+preview: "LGBTQFamily.jpeg"
+banner: "LGBTQSF.jpeg"
 permalink: "/blog/LGBTQFamilies"
 ---
 
