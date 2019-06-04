@@ -7,30 +7,33 @@ opaque_navbar: true
 
 <div class="blog-cols-header">
   <div class="container">
-    <h1>
-      Get the latest thoughts & news
-    </h1>
-    <p>
-      Latest updates, projects and interesting news from our company
-    </p>
+    <h1>Get the latest thoughts & news</h1>
+
+    <p>Latest updates, projects and interesting news from our company</p>
   </div>
 </div>
 
 <div class="blog-cols-wrapper">
   <div class="container">
     {% for post in site.posts %}
-    <a href="{{ post.url }}" class="post">
-      <div class="post-wrapper">
-        <div class="post-bg" style="background-image: url('/assets/images/banners/{{ post.preview | default: post.banner }}');"></div>
-        <div class="post-intro">
-          <div class="post-title">{{ post.title }}</div>
-          <div class="post-min-read">{{ post.mins_read }} min read</div>
-          <p class="post-description">{{ post.description }}</p>
+      <a
+        class="post"
+        href="{{ post.url }}">
+        <div class="post-wrapper">
+          <div
+            class="post-bg"
+            style="background-image: url('/assets/images/banners/{{ post.preview | default: post.banner }}');">
+          </div>
+
+          <div class="post-intro">
+            <div class="post-title">{{ post.title }}</div>
+
+            <div class="post-min-read">{{ post.mins_read }} min read</div>
+
+            <p class="post-description">{{ post.description }}</p>
+          </div>
         </div>
-      </div>
-    </a>
+      </a>
     {% endfor %}
   </div>
 </div>
-
-

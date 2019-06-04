@@ -2,54 +2,58 @@
 layout: base
 ---
 
-<div class="blog-post-3-hero" style="background-image: url('/assets/images/banners/{{ page.banner }}')">
-    <div class="container">
-      <h1 class="customFadeInUp mx-auto">
-	      {{ page.title }}
-      </h1>
-    </div>
-  </div>
+<div
+  class="blog-post-3-hero"
+  style="background-image: url('/assets/images/banners/{{ page.banner }}')">
+  <div class="container"><h1 class="customFadeInUp mx-auto">{{ page.title }}</h1></div>
+</div>
 
+<div class="blog-post-3">
+  <div class="container">
+    <div class="blog-post-header">
+      <div class="blog-post-author">
+        {% for person in page.authors %}
 
-  <div class="blog-post-3">
-    <div class="container">
-      <div class="blog-post-header">
-        <div class="blog-post-author">
-	  {% for person in page.authors %}
-	  <img src="/assets/images/faces/{{ site.data.people[person].face }}">
-	  {% endfor %}
-          <head><style>.top {
+        <img src="/assets/images/faces/{{ site.data.people[person].face }}"/>
+
+        {% endfor %}
+
+        <style>
+          .top {
             position: absolute;
             right: 10px;
             top: 99px;
             z-index: 1;
-           }
-          </style></head>
-	  By <span>{% for p in page.authors %}{{ site.data.people[p].display_name }}{% if p != page.authors[-1] %}, {% endif %}{% endfor %}</span>
-        </div>
-        <div class="blog-post-date">
-		Date <span>{{ page.date | date: "%d %b %Y" }}</span>
-        </div>
-        <div class="blog-post-share">
-          Share this post:
-          <a href="http://twitter.com/share?text=Simple%20Seamless%20Leave&url=https://trysparrow.com/">
-            <i class="ion-social-twitter"></i>
-          </a>
+          }
+        </style>
 
-          <a href="http://www.facebook.com/sharer.php?u=https://trysparrow.com/">
-            <i class="ion-social-facebook"></i>
-          </a>
-        </div>
+        By
+
+        <span>
+          {% for p in page.authors %}{{ site.data.people[p].display_name }}{% if p != page.authors[-1] %}, {% endif %}{% endfor %}
+        </span>
       </div>
 
-      <div class="blog-post-content">
+      <div class="blog-post-date">Date<span>{{ page.date | date: "%d %b %Y" }}</span></div>
 
-	{{ content }}
+      <div class="blog-post-share">
+        Share this post:
 
-  {% include social_footer.html %}
-         </div>
+        <a href="http://twitter.com/share?text=Simple%20Seamless%20Leave&url=https://trysparrow.com/">
+          <i class="ion-social-twitter"></i>
+        </a>
 
+        <a href="http://www.facebook.com/sharer.php?u=https://trysparrow.com/">
+          <i class="ion-social-facebook"></i>
+        </a>
       </div>
     </div>
+
+    <div class="blog-post-content">
+      {{ content }}
+      {% include social_footer.html %}
+    </div>
   </div>
-  {% include mail_footer.html %}
+</div>
+
+{% include mail_footer.html %}

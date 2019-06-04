@@ -22,20 +22,23 @@ Pilot is not Waseem Daher, Jeff Arnold, and Jessica McKellar’s first rodeo…o
 
 With all their experience, the founders know how essential investing in work-life balance is for  their team’s motivation and productivity, so when one of their employees, an engineer, had a child they encouraged him to take advantage of the leave he was eligible for, and tried to make it as easy as possible for him.
 
-<blockquote style="margin:auto;"><b><br />
-<table style="margin:auto;"><tr>
-<td>
-<div class="blog-post-author">
-<img class="top" src="/assets/images/faces/waseem.jpg">
-</div>
-</td>
-<td>
-“Sparrow paid for itself within a week”<br />
-—Waseem Daher<br />
-Founder and CEO, Pilot<br />
-</td>
-</tr></table>
-</b></blockquote><br />
+<blockquote style="margin:auto;"><br />
+  <table style="margin:auto;">
+    <tr>
+      <td>
+        <div class="blog-post-author">
+          <img class="top" src="/assets/images/faces/{{ site.data.people['wasd'].face }}">
+        </div>
+      </td>
+
+      <td><b>
+        “Sparrow paid for itself within a week”<br />
+        —Waseem Daher<br />
+        Founder and CEO, Pilot<br />
+      </b></td>
+    </tr>
+  </table>
+</blockquote><br />
 
 They knew that their employee could file paperwork with the state to receive a partially paid leave, but with their experience, they knew they had little time to spare to understand the  details of the state regulations, paperwork, endorsements, and deadlines.
 
