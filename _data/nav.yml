@@ -4,8 +4,8 @@
 - label: "Blog"
   url: "/blog"
 
-#- label: "Case Studies"
-#  url: "/case-studies"
+- label: "Case Studies"
+  url: "/case-studies"
 
 - label: "Careers"
   url: "/careers"

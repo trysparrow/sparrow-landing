@@ -9,7 +9,6 @@ description: "Why Pilot chose Sparrow to manage all their leave needs."
 banner: "pilot-heart-sparrow.png"
 permalink: "/blog/pilot-case-study"
 is_case_study: true
-published: false
 ---
 
 # A Partnership that Makes Sense
