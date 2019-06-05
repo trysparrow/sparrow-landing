@@ -4,21 +4,22 @@ title: Account Executive
 job_title: Account Executive
 job_location: San Francisco, United States
 banner: "sf_bridge_sunset.jpg"
+description: "Sparrow seeks a high-energy Account Executive to join our fast-growing team."
 ---
 
 #### The Gist
 
-Sparrow seeks a high-energy Account Executive to join our fast-growing team. As an early member of Sparrow, your day-to-day will include: 
- * Excelling at the core Account Executive responsibilities: 
+Sparrow seeks a high-energy Account Executive to join our fast-growing team. As an early member of Sparrow, your day-to-day will include:
+ * Excelling at the core Account Executive responsibilities:
     * Hit and exceed sales quotas
     * Perform market research to identify new potential customers and leads
-    * Develop leads through inbound or outbound prospecting via emails, phone calls, events, and any other method you might think of 
+    * Develop leads through inbound or outbound prospecting via emails, phone calls, events, and any other method you might think of
     * Generate emails using Outreach, make cold calls, try various methods to penetrate accounts
     * Use Salesforce to keep accounts accurate and track activity
  * In collaboration with the Sparrow team, building a robust, successful Sales organization:
-    * Define, manage, and provide insights on key performance metrics 
+    * Define, manage, and provide insights on key performance metrics
     * Oversee and execute the implementation of systems and tools
-    * Collect and share product feedback that you receive during sales interactions so the rest of the team can make the product even better 
+    * Collect and share product feedback that you receive during sales interactions so the rest of the team can make the product even better
 
 
 #### About You
