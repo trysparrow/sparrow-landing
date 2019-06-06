@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sparrow case study: Pilot"
+title: "Sparrow and Pilot: A Partnership that Makes Sense"
 authors:
  - pilo
  - spar
