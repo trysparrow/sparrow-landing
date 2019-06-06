@@ -5,7 +5,13 @@
   content="IE=edge">
 </meta>
 
-<title>Sparrow | {{ page.title }}</title>
+{% if page.title %}
+  {% assign title = "Sparrow | " | append: page.title %}
+{% else %}
+  {% assign title = "Sparrow" %}
+{% endif %}
+
+<title>{{ title }}</title>
 
 <meta
   name="description"
@@ -30,7 +36,7 @@
 
 <meta
   property="og:title"
-  content="Sparrow | {{ page.title }}">
+  content="{{ title }}">
 </meta>
 
 <meta
@@ -60,7 +66,7 @@
 
 <meta
   name="twitter:title"
-  content="Sparrow | {{ page.title }}">
+  content="{{ title }}">
 </meta>
 
 <meta
