@@ -10,7 +10,7 @@ banner: "LGBTQSF.jpeg"
 permalink: "/blog/LGBTQFamilies"
 ---
 
-##“Love Wins”
+##Love Wins
 
 In 2015, the Supreme Court legalized same-sex marriage across America, ruling that marriage was a right, no matter one’s gender or sexual orientation. For many, this ruling not only carried with it the celebration of love after decades of activism but also the possibility of new legal benefits.
 
@@ -50,7 +50,7 @@ There is a long-standing misconception surrounding non-nuclear family structures
     <tr>
       <td><b>
         “I had people at work even tell me I didn't deserve to be tired because I wasn't his 'real' mom [....] Genetics don't mean shit. <b>Biological or not, every parent deserves time off to bond with their kiddos</b>.”<br />
-        —Trae, queer/genderqueer, therapist, (Pennsylvania)<br />
+        —Trae, queer/genderqueer, therapist (Pennsylvania)<br />
       </b></td>
     </tr>
   </table>
@@ -74,8 +74,10 @@ As diverse families become more common in the workplace, employers must re-exami
   <table style="margin:auto;">
     <tr>
       <td><b>
-        <i>DID YOU KNOW?</i> <b>Less than half</b> of LGBT Americans whose employers do have parental leave policies say they’re equally inclusive of childbirth, adoption, or foster care. <b>Only 45% of LGBT workers report having access to parental leave policies</b>.<br />
-        —[HRC’s 2018 LGBTQ Paid Leave Survey](https://assets2.hrc.org/files/assets/resources/2018-HRC-LGBTQ-Paid-Leave-Survey.pdf)<br />
+        <i>DID YOU KNOW?</i>
+        <br>
+        <br><b>Less than half</b> of LGBT Americans whose employers do have parental leave policies say they’re equally inclusive of childbirth, adoption, or foster care. <b>Only 45% of LGBT workers report having access to parental leave policies</b>.<br />
+        — [HRC’s 2018 LGBTQ Paid Leave Survey](https://assets2.hrc.org/files/assets/resources/2018-HRC-LGBTQ-Paid-Leave-Survey.pdf) <br />
       </b></td>
     </tr>
   </table>
@@ -92,21 +94,39 @@ Providing a healthier, more inclusive workplace and better benefits not only res
 ## Sources and Further Reading:
 
 [Supreme Court Ruling Makes Same-Sex Marriage a Right Nationwide](https://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html)  
+<br>
 [Here's What Parental Leave Is Like For LGBT Families](https://www.buzzfeednews.com/article/susiearmitage/this-is-what-its-like-to-take-parental-leave-when-youre-lgbt)  
+<br>
 [State Family and Medical Leave Laws](http://www.ncsl.org/research/labor-and-employment/state-family-and-medical-leave-laws.aspx)  
+<br>
 [Paternity Leave 101: Laws, Rights, and Other Basic Things You Should Know](https://fairygodboss.com/career-topics/paternity-leave-101-laws-rights-and-other-basic-things-you-should-know)  
+<br>
 [Wage and Hour Division (WHD)](https://www.dol.gov/whd/regs/compliance/whdfs28B.htm)
+<br>
 [The Employer's Guide to The Family and Medical Leave Act](https://www.dol.gov/whd/fmla/employerguide.pdf)
+<br>
 [FMLA is Working](https://www.dol.gov/whd/fmla/survey/FMLA_Survey_factsheet.pdf)
+<br>
 [People Need Paid Leave Policies That Cover Chosen Family](https://cdn.americanprogress.org/content/uploads/2017/10/26135206/UnmetCaregivingNeed-brief.pdf)
+<br>
 [If You're Queer and Not Angry About the State of Paid Family Leave in This Country, You Should Be](https://www.lambdalegal.org/blog/us_20171214_paid-family-leave-chosen-families)
+<br>
 [The Risky Business of Paternity Leave](https://www.dol.gov/whd/fmla/survey/FMLA_Survey_factsheet.pdf)
+<br>
 [America is no longer a nation of nuclear families](https://qz.com/440167/america-is-no-longer-a-nation-of-nuclear-families/)
+<br>
 [LGBTQ families poised for 'dramatic growth,' national survey finds](https://www.nbcnews.com/feature/nbc-out/lgbtq-families-poised-dramatic-growth-national-survey-finds-n968776)
+<br>
 [A new law gives NYC workers paid family leave for anyone they define as family](https://qz.com/work/1169666/lgbt-advocates-are-making-paid-leave-more-fair-for-everyone/)
+<br>
 [Mandatory Paternity Leave Is An Investment In Career And Family](https://www.huffingtonpost.ca/reva-seth/mandatory-paternity-leave_b_10525764.html)
+<br>
 [2018 U.S. LGBTQ PAID LEAVE SURVEY](https://assets2.hrc.org/files/assets/resources/2018-HRC-LGBTQ-Paid-Leave-Survey.pdf)
 [How Parental Leave Policies Are Short-Changing Gay Dads](http://www.newnownext.com/how-parental-leave-policies-are-short-changing-gay-dads/10/2017/)
+<br>
 [Supporting LGBT staff: Family-friendly leave for same-sex couples](https://www.personneltoday.com/hr/supporting-lgbt-staff-family-friendly-leave-for-same-sex-couples/)
+<br>
 [Queer Families Still Struggle to Access Leave](https://slate.com/human-interest/2018/02/even-after-gay-marriage-many-queer-families-cant-access-leave.html)
+<br>
 [Policy Recommendation: Paid Family Leave](https://www.newamerica.org/in-depth/care-report/policy-recommendation-paid-family-leave/)
+<br>
