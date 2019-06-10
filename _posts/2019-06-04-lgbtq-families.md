@@ -10,7 +10,7 @@ banner: "LGBTQSF.jpeg"
 permalink: "/blog/LGBTQFamilies"
 ---
 
-##Love Wins
+## "Love Wins"
 
 In 2015, the Supreme Court legalized same-sex marriage across America, ruling that marriage was a right, no matter one’s gender or sexual orientation. For many, this ruling not only carried with it the celebration of love after decades of activism but also the possibility of new legal benefits.
 
@@ -77,7 +77,7 @@ As diverse families become more common in the workplace, employers must re-exami
         <i>DID YOU KNOW?</i>
         <br>
         <br><b>Less than half</b> of LGBT Americans whose employers do have parental leave policies say they’re equally inclusive of childbirth, adoption, or foster care. <b>Only 45% of LGBT workers report having access to parental leave policies</b>.<br />
-        — [HRC’s 2018 LGBTQ Paid Leave Survey](https://assets2.hrc.org/files/assets/resources/2018-HRC-LGBTQ-Paid-Leave-Survey.pdf) <br />
+        —[HRC’s 2018 LGBTQ Paid Leave Survey](https://assets2.hrc.org/files/assets/resources/2018-HRC-LGBTQ-Paid-Leave-Survey.pdf) <br />
       </b></td>
     </tr>
   </table>
@@ -94,13 +94,9 @@ Providing a healthier, more inclusive workplace and better benefits not only res
 ## Sources and Further Reading:
 
 [Supreme Court Ruling Makes Same-Sex Marriage a Right Nationwide](https://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html)  
-<br>
 [Here's What Parental Leave Is Like For LGBT Families](https://www.buzzfeednews.com/article/susiearmitage/this-is-what-its-like-to-take-parental-leave-when-youre-lgbt)  
-<br>
 [State Family and Medical Leave Laws](http://www.ncsl.org/research/labor-and-employment/state-family-and-medical-leave-laws.aspx)  
-<br>
 [Paternity Leave 101: Laws, Rights, and Other Basic Things You Should Know](https://fairygodboss.com/career-topics/paternity-leave-101-laws-rights-and-other-basic-things-you-should-know)  
-<br>
 [Wage and Hour Division (WHD)](https://www.dol.gov/whd/regs/compliance/whdfs28B.htm)
 <br>
 [The Employer's Guide to The Family and Medical Leave Act](https://www.dol.gov/whd/fmla/employerguide.pdf)
