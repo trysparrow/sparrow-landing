@@ -14,8 +14,6 @@ description: "Sparrow seeks an empathetic Customer Success Manager to join our f
 
 #### The Gist
 
-The Gist
-
 Sparrow is looking for a Customer Success Manager to join our fast-growing team. As an early member of Sparrow, your day-to-day will include:
  * Excelling at the core Customer Success Manager responsibilities: 
     * Drive success through initial kickoff and provide a supportive, personalized end-to-end leave of absence experience for customers
