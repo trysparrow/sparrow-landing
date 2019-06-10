@@ -46,10 +46,3 @@ Your insights will have an outsized impact on building an amazing software produ
 
 
 <br>
-<br>
-*<center>
-  Sparrow is an Equal Opportunity Employer strongly committed to reflecting a wide range of
-  differences in our workplace including, but not limited to: race, ethnicity, religion, sex,
-  sexual orientation, gender identity/expression, physical ability, age, family status, economic
-  and geographical status. We encourage applicants of diverse backgrounds to apply.
-  </center>*
