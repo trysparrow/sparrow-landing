@@ -38,11 +38,3 @@ Evaluate our impact at each leave life cycle, and implement process improvements
  * Sparrow solves an acute pain point experienced by companies and their employees. We strive to be the best in the industry by addressing long-standing problems in the process and providing exceptional service. This means that as Customer Success, most of the people you work with will be grateful for your help!
  * The insights you will gain in customer needs will make you an invaluable team member for our product and engineering team
 
-<br>
-<br>
-*<center>
-  Sparrow is an Equal Opportunity Employer strongly committed to reflecting a wide range of
-  differences in our workplace including, but not limited to: race, ethnicity, religion, sex,
-  sexual orientation, gender identity/expression, physical ability, age, family status, economic
-  and geographical status. We encourage applicants of diverse backgrounds to apply.
-  </center>*
