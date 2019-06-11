@@ -18,10 +18,10 @@ Sparrow is looking for a Customer Success Manager to join our fast-growing team.
  * Excelling at the core Customer Success Manager responsibilities: 
     * Drive success through initial kickoff and provide a supportive, personalized end-to-end leave of absence experience for customers
     * Act responsively, accurately, and with attention to detail in a considerate and timely manner with your assigned customers 
-    *Interface and collaborate comfortably with a variety of key parties: individuals on leave, HR/payroll teams, state representatives, doctor’s offices, etc. through various methods of communication (phone call, email, in-person)
+    * Interface and collaborate comfortably with a variety of key parties: individuals on leave, HR/payroll teams, state representatives, doctor’s offices, etc. through various methods of communication (phone call, email, in-person)
  * In collaboration with the Sparrow team, building a better product:
    * Collect and share product feedback that you receive during customer interactions 
-Evaluate our impact at each leave life cycle, and implement process improvements to resolve inefficiencies and address    * customer pain points
+   * Evaluate our impact at each leave life cycle, and implement process improvements to resolve inefficiencies and address customer pain points
 
 
 #### About You
