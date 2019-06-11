@@ -7,7 +7,7 @@ mins_read: "5"
 description: "Understanding Parental Leave Rights of LGBTQ+ Families"
 preview: "LGBTQFamily.jpeg"
 banner: "LGBTQSF.jpeg"
-permalink: "/blog/LGBTQFamilies"
+permalink: "/blog/define-family"
 ---
 
 ## "Love Wins"
@@ -77,7 +77,7 @@ As diverse families become more common in the workplace, employers must re-exami
         <i>DID YOU KNOW?</i>
         <br>
         <br><b>Less than half</b> of LGBT Americans whose employers do have parental leave policies say they’re equally inclusive of childbirth, adoption, or foster care. <b>Only 45% of LGBT workers report having access to parental leave policies</b>.<br />
-        —[HRC’s 2018 LGBTQ Paid Leave Survey](https://assets2.hrc.org/files/assets/resources/2018-HRC-LGBTQ-Paid-Leave-Survey.pdf) <br />
+        — <a href="https://assets2.hrc.org/files/assets/resources/2018-HRC-LGBTQ-Paid-Leave-Survey.pdf"> HRC’s 2018 LGBTQ Paid Leave Survey</a> <br />
       </b></td>
     </tr>
   </table>
