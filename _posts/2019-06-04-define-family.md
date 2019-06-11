@@ -8,7 +8,7 @@ description: "Understanding Parental Leave Rights of LGBTQ+ Families"
 preview: "LGBTQFamily.jpeg"
 banner: "LGBTQSF.jpeg"
 permalink: "/blog/define-family"
----
+
 
 ## "Love Wins"
 
