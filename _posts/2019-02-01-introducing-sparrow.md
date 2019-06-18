@@ -8,6 +8,8 @@ mins_read: "3"
 description: "The simplest way to provide employees with seamless leave."
 banner: "reading.jpg"
 permalink: "/blog/introducing-sparrow"
+facebook_share: nil
+twitter_share: nil
 ---
 
 ## What is Sparrow?
@@ -29,7 +31,7 @@ Companies often don’t have the information they need to keep track of regulati
   <div class="quote">
     Sparrow is a software-based service that makes it simple for all companies to provide leave (such family leave, disability, etc.), so no one needs to choose between the people they love and the job that they love.
   </div>
-  
+
   <!-- <div class="author">
     Jessica Jones, Founder/CEO
   </div> -->

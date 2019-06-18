@@ -46,6 +46,14 @@ layout: base
         <a href="http://www.facebook.com/sharer.php?u=https://trysparrow.com/">
           <i class="ion-social-facebook"></i>
         </a>
+
+        <a href="{{ page.facebook_share | default: 'http://www.facebook.com/sharer.php?u=https://trysparrow.com/' }}">
+          <i class="ion-social-twitter"></i>
+        </a>
+
+        <a href="{{ page.twitter_share | default: 'http://twitter.com/share?text=Simple%20Seamless%20Leave&url=https://trysparrow.com/' }}">
+          <i class="ion-social-facebook"></i>
+        </a>
       </div>
     </div>
 
