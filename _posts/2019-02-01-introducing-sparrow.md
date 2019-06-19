@@ -8,8 +8,6 @@ mins_read: "3"
 description: "The simplest way to provide employees with seamless leave."
 banner: "reading.jpg"
 permalink: "/blog/introducing-sparrow"
-facebook_share: nil
-twitter_share: nil
 ---
 
 ## What is Sparrow?

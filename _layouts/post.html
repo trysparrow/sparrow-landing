@@ -39,23 +39,11 @@ layout: base
       <div class="blog-post-share">
         Share this post:
 
-        <div id="fb-root"></div>
-        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3"></script>
-        <div class="fb-share-button" data-href="https://trysparrow.com/blog/introducing-sparrow" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftrysparrow.com%2Fblog%2Fintroducing-sparrow&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
-        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="No one should need to choose between a job they love and the people they love.&quot; Check out Sparrow&#39;s first blog post! " data-url="https://bit.ly/2taWtnu" data-via="trySparrowHQ" data-related="trySparrowHQ" data-dnt="true" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-        <a href="{{ page.facebook_share | default: 'http://www.facebook.com/sharer.php?u=https://trysparrow.com/' }}">
-          <i class="ion-social-twitter"></i>
-        </a>
-
-        <a href="{{ page.twitter_share | default: 'http://twitter.com/share?text=Simple%20Seamless%20Leave&url=https://trysparrow.com/' }}">
-          <i class="ion-social-facebook"></i>
-        </a>
-        <a href="http://www.facebook.com/sharer.php?u={{ site.url | append: page.url }}">
-          <i class="ion-social-twitter"></i>
-        </a>
-
         <a href="http://twitter.com/share?url={{ site.url | append: page.url }}">
+          <i class="ion-social-twitter"></i>
+        </a>
+
+        <a href="http://www.facebook.com/sharer.php?u={{ site.url | append: page.url }}">
           <i class="ion-social-facebook"></i>
         </a>
       </div>
