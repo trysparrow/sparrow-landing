@@ -29,7 +29,7 @@ Companies often don’t have the information they need to keep track of regulati
   <div class="quote">
     Sparrow is a software-based service that makes it simple for all companies to provide leave (such family leave, disability, etc.), so no one needs to choose between the people they love and the job that they love.
   </div>
-  
+
   <!-- <div class="author">
     Jessica Jones, Founder/CEO
   </div> -->

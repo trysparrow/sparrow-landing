@@ -39,11 +39,11 @@ layout: base
       <div class="blog-post-share">
         Share this post:
 
-        <a href="http://twitter.com/share?text=Simple%20Seamless%20Leave&url=https://trysparrow.com/">
+        <a href="http://twitter.com/share?url={{ site.url | append: page.url }}" target="_blank">
           <i class="ion-social-twitter"></i>
         </a>
 
-        <a href="http://www.facebook.com/sharer.php?u=https://trysparrow.com/">
+        <a href="http://www.facebook.com/sharer.php?u={{ site.url | append: page.url }}" target="_blank">
           <i class="ion-social-facebook"></i>
         </a>
       </div>
