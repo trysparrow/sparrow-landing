@@ -1,6 +1,6 @@
-# [Sparrow landing page repo](https://trysparrow.com)
+# [Sparrow landing page repository](https://trysparrow.com)
 ## Git usage
-If you're using Atom, you can use their GUI (graphical user interface) for git. This tutorial will use the git CLI (command line interface).
+We recommend using [Atom](https://atom.io). You can use their GUI (graphical user interface) for git. This tutorial will use the git CLI (command line interface).
 ### First time
 Get repository locally by running
 `git clone https://github.com/trysparrow/sparrow-landing.git`
@@ -19,7 +19,7 @@ Branch names should be all lower case with words separated by hyphens and should
 
 Now you're prepared to make your changes! See the next section for recording your changes in git, and return here once you're ready to have your changes brought into the master branch.
 
-===
+___
 
 Go to the repository on the Github website (where you're probably reading this), and click on the `Pull requests` tab.
 
@@ -85,6 +85,7 @@ permalink: "/blog/<post permenant url ending>"
 The blank line between front matter and content is required.
 #### Content
 Jekyll posts can be written in a mix of Markdown and HTML.
+[Here](https://www.markdownguide.org/basic-syntax) is a guide for Markdown syntax.
 
 ### Faces and authors
 Authors and everyone with a name and photo are listed in _data\/people.yml by the first three letters of their given name and first letter of their surname. For instance, our benevolent overlord would be debh. I don't know why I made this so complicated.
