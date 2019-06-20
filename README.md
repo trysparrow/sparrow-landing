@@ -5,7 +5,12 @@ We recommend using [Atom](https://atom.io). You can use their GUI (graphical use
 Get repository locally by running
 `git clone https://github.com/trysparrow/sparrow-landing.git`
 
-TODO: set user information
+Move into repository (AKA repo)
+`cd sparrow-landing` Note: `cd` means 'change directory'
+
+Set author information
+`git config --global user.name "<Github username or real name>"`
+`git config --global user.email <Github username>@users.noreply.github.com`
 
 ### Each time you work something new
 Switch to master branch
@@ -107,10 +112,9 @@ description: "<One sentence catch for job description>"
 
 ```
 #### Content
-Jekyll posts can be written in a mix of Markdown and HTML.
-[Here](https://www.markdownguide.org/basic-syntax) is a guide for Markdown syntax.
+Jekyll posts can be written in a mix of [Markdown](https://www.markdownguide.org/basic-syntax) and [HTML](https://www.simplehtmlguide.com/cheatsheet.php).
 #### Posting on careers page
-Minimal understanding of HTML is required in this part.
+To do this part, you will need to understand a bit of HTML.
 Go near the bottom of `/careers.html` and find/create section for listing and a div for the listing itself. Copy-pasting is reccomended.
 
 ### Faces and authors
