@@ -36,6 +36,5 @@ Ideal Candidates:
  * The content you produce will help companies create a better leave experience for their employees. 
 
 #### Logistics 
- * Company is based in San Francisco, CA. 
- * Remote work is OK. 
  * This is a contract position with potential to become full-time. 
+ * Remote work is OK.
