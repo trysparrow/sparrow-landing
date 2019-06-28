@@ -5,7 +5,13 @@ We recommend using [Atom](https://atom.io). You can use their GUI (graphical use
 Get repository locally by running
 `git clone https://github.com/trysparrow/sparrow-landing.git`
 
-<set user information>
+Move into repository (AKA repo)
+`cd sparrow-landing` Note: `cd` means 'change directory'
+
+Set author information
+`git config --global user.name "<Github username or real name>"`
+`git config --global user.email <Github username>@users.noreply.github.com`
+
 ### Each time you work something new
 Switch to master branch
 `git checkout master`
@@ -86,6 +92,30 @@ The blank line between front matter and content is required.
 #### Content
 Jekyll posts can be written in a mix of Markdown and HTML.
 [Here](https://www.markdownguide.org/basic-syntax) is a guide for Markdown syntax.
+
+### Making new job listings
+#### Filename
+Career listings are saved under `/careers/` and are named by lower-case hyphenated job title.
+`/careers/job-listing.md`
+#### Front matter
+`<>` indicates a required field.
+`[]` indicates an optional field.
+```
+---
+layout: job_listing
+title: <Page Title (can match job title)>
+job_title: <Job Title>
+job_location: <City, Country>
+banner: "<filename in path /assets/images/banners>"
+description: "<One sentence catch for job description>"
+---
+
+```
+#### Content
+Jekyll posts can be written in a mix of [Markdown](https://www.markdownguide.org/basic-syntax) and [HTML](https://www.simplehtmlguide.com/cheatsheet.php).
+#### Posting on careers page
+To do this part, you will need to understand a bit of HTML.
+Go near the bottom of `/careers.html` and find/create section for listing and a div for the listing itself. Copy-pasting is reccomended.
 
 ### Faces and authors
 Authors and everyone with a name and photo are listed in _data\/people.yml by the first three letters of their given name and first letter of their surname. For instance, our benevolent overlord would be debh. I don't know why I made this so complicated.
