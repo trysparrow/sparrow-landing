@@ -26,7 +26,8 @@ Sparrow is looking for a Software Engineer to join our fast-growing team. As an 
 
 * Excited to learn from teammates and Product Specialists
 * Great working in a team
-* Comfortable in a [Django](https://www.djangoproject.com/) environment
+* Comfortable with [Python](https://www.python.org/) and at least 3 of [Django](https://www.djangoproject.com/), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React](https://reactjs.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+* Experience with APIs and integrating with third-party systems also a huge plus
 * Learner’s mindset —  highly self-directed, adaptable, and up for feedback and implementation in a fast paced, always changing environment
 
 #### Why Software Engineer at Sparrow?
