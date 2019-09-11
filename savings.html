@@ -12,25 +12,26 @@ opaque_navbar: true
     <p>Managing leaves is a very tedious, error-prone process for both HR and the employee needing leave. These costs add up, especially if there are any mistakes along the way which result in State or third party benefits being denied.</p>
 
     <p>Fill out this form to estimate how much you can save with Sparrow, and we'll email you right back with the results and explanations!</p>
-    <form>
+    <iframe name="hiddenFrame" width="0" height="0" border="0" style="display: none;"></iframe>
+    <form action="http://127.0.0.1:8000" target="hiddenFrame" method="post">
       <div class="form-group">
         <label for="company-size">How many employees do you offer leave?</label>
-        <input type="number" class="form-control" id="company-size" placeholder="100">
+        <input type="number" class="form-control" name="company-size" id="company-size" placeholder="100">
       </div>
 
       <div class="form-group">
         <label for="employee-salary">Average Employee Salary</label>
-        <input type="number" class="form-control" id="employee-salary" placeholder="50,000">
+        <input type="number" class="form-control" name="employee-salary" id="employee-salary" placeholder="50,000">
       </div>
 
       <div class="form-group">
         <label for="hr-salary">Average HR Salary</label>
-        <input type="number" class="form-control" id="hr-salary" placeholder="50,000">
+        <input type="number" class="form-control" id="hr-salary" id="hr-salary" placeholder="50,000">
       </div>
 
       <div class="form-group">
         <label for="state">In what state is most of your workforce?</label>
-        <select class="form-control" id="state">
+        <select class="form-control" name="state" id="state">
           <option value="AL">Alabama</option>
           <option value="AK">Alaska</option>
           <option value="AZ">Arizona</option>
@@ -87,7 +88,7 @@ opaque_navbar: true
 
         <div class="form-check">
           <label class="form-check-label">
-            <input type="checkbox" class="form-check-input">
+            <input type="checkbox" class="form-check-input" name="files-state" id="files-state">
             Do you file for state benefits?
           </label>
         </div>
@@ -95,11 +96,11 @@ opaque_navbar: true
 
       <div class="form-group">
         <label for="email">Email address</label>
-        <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="name@domain.com">
+        <input type="email" class="form-control" name="email" id="email" aria-describedby="emailHelp" placeholder="name@domain.com">
         <small id="emailHelp" class="form-text text-muted">You'll hear from us shortly! Check your spam if you don't see anything in a few minutes.</small>
       </div>
 
-      <button type="submit" class="btn btn-primary">Submit</button>
+      <button type="submit" class="btn btn-primary" onsubmit="window.location.href = '/'">Submit</button>
     </form>
   </div>
 </div>
