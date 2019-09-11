@@ -10,5 +10,8 @@
 - label: "Careers"
   url: "/careers"
 
+- label: "Savings"
+  url: "/savings"
+
 - label: "Try Sparrow"
   url: "/#signup"
