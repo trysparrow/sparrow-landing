@@ -55,8 +55,13 @@ description: "We take care of employee leave, so you don't have to."
     <div class="row justify-content-center">
       {% assign clients = 'pilot, popsugar, cloudflare, circleci, scale' | split: ', ' %}
       {% for name in clients %}
-      <div class="col-12 col-md-3 col-lg" style="margin-top: auto; margin-bottom: auto;">
-        <img class="img-fluid mb-4" src="/assets/images/clients-gs/{{ name }}-gs.png"></img>
+      <div
+        class="col-12 col-md-3 col-lg"
+        style="margin-top: auto; margin-bottom: auto;">
+        <img
+          class="img-fluid mb-4"
+          src="/assets/images/clients-gs/{{ name }}-gs.png"
+          style="width: 128px;"></img>
       </div>
       {% endfor %}
     </div>
