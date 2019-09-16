@@ -118,24 +118,25 @@
   Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
   <![endif]
 -->
+<body>
+  {% include navbar.html %}
 
-{% include navbar.html %}
+  {{ content }}
 
-{{ content }}
+  <div class="footer-light">
+    <div class="container">
+      <span>© Sparrow 2019</span>
 
-<div class="footer-light">
-  <div class="container">
-    <span>© Sparrow 2019</span>
+      {% for link in site.data.nav %}
+        <a
+          href="{{ link.url }}">
+          {{ link.label }}
+        </a>
+      {% endfor %}
 
-    {% for link in site.data.nav %}
-      <a
-        href="{{ link.url }}">
-        {{ link.label }}
-      </a>
-    {% endfor %}
-
+    </div>
   </div>
-</div>
+</body>
 
 <script type="text/javascript">
   $(function () {

@@ -12,3 +12,6 @@
 
 - label: "Try Sparrow"
   url: "/#signup"
+
+- label: "Login"
+  url: "/login"

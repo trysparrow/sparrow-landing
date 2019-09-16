@@ -1,3 +1,17 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display:flex;
+  flex-direction:column;
+}
+
+.footer-light {
+  margin-top:auto;
+}
+
 .content {
   height: 32px;
   overflow: hidden;
