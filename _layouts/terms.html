@@ -1,0 +1,31 @@
+---
+layout: base
+title: Terms
+description: "Sparrow's Terms of Service"
+opaque_navbar: true
+---
+
+<div class="blog-cols-header">
+  <div class="container">
+    <h1>Terms of Service</h1>
+  </div>
+</div>
+
+<div class="blog-post-3">
+  <div class="container">
+    <h1>Terms of Service</h1>
+    {% if page.start or page.end %}
+      <p>
+        If you signed with Sparrow
+        {% if page.start %} before {{ page.start | date: "%B %d, %Y" }} {% endif %}
+        {% if page.start and page.end %}or{% endif %}
+        {% if page.end %} after {{ page.end | date: "%B %d, %Y" }} {% endif %}
+        you may find your applicable terms in <a href="/previous_terms">this list</a>.
+      </p>
+    {% endif %}
+
+    <div class="blog-post-content">
+      {{ content }}
+    </div>
+  </div>
+</div>

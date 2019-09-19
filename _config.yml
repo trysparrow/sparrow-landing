@@ -35,11 +35,17 @@ plugins:
 # to override the default setting.
 exclude:
   - README.md
-#   - Gemfile
-#   - Gemfile.lock
+   - Gemfile
+   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
 future: true
+
+collections:
+  terms:
+    output: true
+    sort_by: end
+    permalink: /previous_terms/:name
