@@ -1,13 +1,42 @@
 ---
 layout: base
 title: Terms
-description: "Sparrow's Terms of Service"
+description: "Sparrow's Terms & Conditions"
 opaque_navbar: true
 ---
 
+<style>
+ol {
+  list-style-type: none;
+  counter-reset: item;
+  margin: 0;
+  padding: 0;
+}
+
+ol > li {
+  display: table;
+  counter-increment: item;
+  margin-bottom: 0.6em;
+}
+
+ol > li:before {
+  content: counters(item, ".") ". ";
+  display: table-cell;
+  padding-right: 0.6em;
+}
+
+li ol > li {
+  margin: 0;
+}
+
+li ol > li:before {
+  content: counters(item, ".") " ";
+}
+</style>
+
 <div class="blog-post-3">
   <div class="container">
-    <h1>Terms of Service</h1>
+    <h1>Terms & Conditions</h1>
     {% if page.start or page.end %}
       <p>
         If you signed with Sparrow
