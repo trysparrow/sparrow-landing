@@ -6,5 +6,5 @@ opaque_navbar: true
 ---
 
 {% for doc in site.terms %}
-<a href="{{ doc.url }}">{{ doc.start | default: "Beginning of time" }}</a><br />
+  <a href="{{ doc.url }}">{{ doc.start | default: "Beginning of time" }}</a><br />
 {% endfor %}
