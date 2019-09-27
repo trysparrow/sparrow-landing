@@ -1,0 +1,10 @@
+---
+layout: base
+title: "Previous Terms"
+description: "Sparrow's previous Terms of Service"
+opaque_navbar: true
+---
+
+{% for doc in site.terms %}
+  <a href="{{ doc.url }}">{{ doc.start | default: "Beginning of time" }}</a><br />
+{% endfor %}
