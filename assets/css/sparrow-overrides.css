@@ -3,9 +3,18 @@ html, body {
   margin: 0;
 }
 
-body {
-  display:flex;
-  flex-direction:column;
+.wrapper--loginpage {
+  height: calc(100vh - 187px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper--loginpage div {
+  text-align: center;
+}
+.wrapper--loginpage a {
+  margin: 0.5em;
 }
 
 .footer-light {
