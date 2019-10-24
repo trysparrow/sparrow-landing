@@ -30,6 +30,10 @@ html, body {
   color: #ecf0f1;
 }
 
+.navbar-light {
+  box-shadow: 0 1px 30px #f0f0f0;
+}
+
 @media (max-width: 768px) {
   .content__container {
     justify-content: center;
