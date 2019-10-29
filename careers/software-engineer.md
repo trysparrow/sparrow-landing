@@ -15,7 +15,7 @@ Sparrow transforms an onerous, error-prone, and time-consuming process into a qu
 
 Sparrow is looking for a Software Engineer to join our fast-growing team. As an early member of Sparrow, your day-to-day will include:
 
-- Working with product specialists to help automate paperwork, collect information securely, and create new tools to make the leave experience as seemless as possible.
+- Working with product specialists to help automate paperwork, collect information securely, and create new tools to make the leave experience as seamless as possible.
 - Working across the stack to create libraries and help automate processes for product specialists.
 - Write tests to ensure the product is built on a reliable foundation.
 - Collaborate with your teammates to build a cohesive and beautiful product.
