@@ -78,6 +78,42 @@ html, body {
   padding-bottom: 24px;
 }
 
+.security-header {
+  background: #212a38;
+  height: 85px;
+}
+
+.security-policy {
+  max-width: 800px;
+  margin: 50px auto;
+  line-height: 1.8;
+}
+
+.security-policy h3 {
+  margin-bottom: 20px;
+}
+
+.security-policy p {
+  text-align: left;
+  margin: 5px 0 20px 0;
+  max-width: 800px;
+}
+
+.security-policy ul li b,
+.security-policy p b {
+  font-weight: 600;
+}
+
+.security-policy ul {
+  padding-left: 30px;
+}
+
+@media (max-width: 768px) {
+  .security-policy ul li {
+    width: auto;
+  }
+}
+
 @-webkit-keyframes opacity {
   0%, 100% {
     opacity: 0;
