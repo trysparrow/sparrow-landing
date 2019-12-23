@@ -1,17 +1,11 @@
-- label: "How It Works"
-  url: "/#product"
+- label: "Login"
+  url: "/login"
+
+- label: "Careers"
+  url: "/careers"
 
 - label: "Blog"
   url: "/blog"
 
 - label: "Case Studies"
   url: "/case-studies"
-
-- label: "Careers"
-  url: "/careers"
-
-- label: "Try Sparrow"
-  url: "/#signup"
-
-- label: "Login"
-  url: "/login"

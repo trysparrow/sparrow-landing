@@ -8,3 +8,15 @@ opaque_navbar: true
 {% for doc in site.terms %}
   <a href="{{ doc.url }}">{{ doc.start | default: "Beginning of time" }}</a><br />
 {% endfor %}
+
+{% for doc in site.securityterms %}
+  <a href="{{ doc.url }}">{{ doc.start | default: "Beginning of time" }}</a><br />
+{% endfor %}
+
+{% for doc in site.privacyterms %}
+  <a href="{{ doc.url }}">{{ doc.start | default: "Beginning of time" }}</a><br />
+{% endfor %}
+
+{% for doc in site.employeeterms %}
+  <a href="{{ doc.url }}">{{ doc.start | default: "Beginning of time" }}</a><br />
+{% endfor %}

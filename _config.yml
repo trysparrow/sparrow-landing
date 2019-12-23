@@ -45,7 +45,22 @@ exclude:
 future: true
 
 collections:
-  terms:
+  securitypolicy:
+    output: true
+    sort_by: end
+    permalink: /previous_security/:name
+
+  privacypolicy:
+    output: true
+    sort_by: end
+    permalink: /previous_privacy/:name
+
+  employeeterms:
+    output: true
+    sort_by: end
+    permalink: /previous_service/:name
+
+  companyterms:
     output: true
     sort_by: end
     permalink: /previous_terms/:name
