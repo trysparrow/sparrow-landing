@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "What the new Coronavirus Response Act means for your team"
+title: "What the new FFCRA  means for your team"
 authors:
  - spar
 mins_read: "3"
-description: "The Families First Coronavirus Response Act provides answers and relief"
+description: "The Families First Coronavirus Response Act provides answers & relief"
 preview: "teamwork.jpg"
 banner: "teamwork.jpg"
 permalink: "/blog/coronavirus-response-act"
 ---
 
-The last few weeks have been very challenging for employers trying to manage the COVID-19 crisis. For employers who are concerned about the economic impact of the epidemic, or who are simply looking for ways to support their employees during this time, the new Families First Coronavirus Response Act (“FFCRA”), passed by Congress and signed into law on Wednesday 3/18, provides some answers and relief.
+The last few weeks have been very challenging for employers trying to manage the COVID-19 crisis. For employers who are concerned about the economic impact of the epidemic, or who are simply looking for ways to support their employees during this time, the new Families First Coronavirus Response Act (FFCRA), passed by Congress and signed into law on March 18, 2020, provides some answers and relief.
 
 ## The new law applies to small and midsize employers
 
@@ -33,4 +33,4 @@ Sparrow is an end-to-end leave management company that manages all types of leav
 * Save 20-40 hours of Human Resources Team’s time per leave. 
 * Coordinate with the Payroll team to ensure accurate wage integration is provided to the employees.
 
-To learn more, please join Sparrow’s free webinar on Friday March 27, 2020 that will discuss more details about various state and federal programs and support services for individuals affected by COVID-19. For more updates like these, check back regularly and follow us on social media.  
+To learn more, please [join Sparrow’s free webinar](https://www.eventbrite.com/e/caring-for-your-team-in-the-covid-19-pandemic-tickets-100346814022) on Friday March 27, 2020 that will discuss more details about various state and federal programs and support services for individuals affected by COVID-19. For more updates like these, follow us on social media.  
