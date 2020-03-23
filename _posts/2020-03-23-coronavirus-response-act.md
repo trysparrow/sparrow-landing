@@ -20,7 +20,7 @@ Covered employers include all organizations with fewer than 500 employees, altho
 
 Under the law, employees are entitled to take two weeks paid time off from work as Emergency Paid Sick Leave, if they are ill or quarantined due to COVID-19, or if they are caring for someone who is. The Paid Sick Leave amount for employees who are ill or quarantined is 100% of their regular wages, capped at $511 per day or a max total of $5,110. Employees taking care-related leaves will be entitled to two-thirds of regular wages, capped at $200 per day or a max total of $2,000. 
 
-Employees are also entitled to take up to twelve weeks off as Emergency Family Leave if they are unable to work because they are caring for their child whose school or daycare has closed due to COVID-19. The first two weeks are unpaid but employees can use their accrued sick or vacation time. The following ten weeks are paid at two-thirds of the employee’s regular wages, capped at $200 per day or a max total of $10,000.  
+Employees are also entitled to take up to twelve weeks off as Emergency Family Leave if they are unable to work because they are caring for their child whose school or daycare has closed due to COVID-19. The first 10 days are unpaid but employees can use their accrued sick or vacation time. After the unpaid period, employees are eligible to receive two-thirds of the employee’s regular wages, capped at $200 per day or a max total of $10,000.
 
 Employers can recoup 100% of the costs of these leave payments by deducting the dollar amount from their withheld employment and payroll taxes on a quarterly basis. In some circumstances, they can even recoup costs for their contribution to the employee’s health insurance during the employee’s leave.
 
