@@ -16,6 +16,8 @@ The last few weeks have been very challenging for employers trying to manage the
 
 Covered employers include all organizations with fewer than 500 employees, although employers with fewer than 50 employees may be exempt if compliance would jeopardize the business’s viability.
 
+All covered employers must post a notice of the Families First Coronavirus Response Act (FFCRA) requirements ([link to notice here](https://www.dol.gov/sites/dolgov/files/WHD/posters/FFCRA_Poster_WH1422_Non-Federal.pdf)) in a conspicuous place on its premises. Employers can also email or mail this notice to employees, or post it on an employee information internal or external website.
+
 ## How it helps employers and employees
 
 Under the law, all employees of covered employers are entitled to take two weeks paid time off from work as Emergency Paid Sick Leave, if they are ill or quarantined due to COVID-19, or if they are caring for someone who is. The Paid Sick Leave amount for employees who are ill or quarantined is 100% of their regular wages, capped at $511 per day or a max total of $5,110. Employees taking care-related leaves will be entitled to two-thirds of regular wages, capped at $200 per day or a max total of $2,000.
