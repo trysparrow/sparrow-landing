@@ -6,23 +6,33 @@ permalink: /security
 opaque_navbar: true
 ---
 
+<b>Security Awareness Training</b>
+<p>Your security is of the utmost importance to us, and the Sparrow team has security awareness deeply embedded in our team culture and training. Each Sparrow team member is regularly trained on effective security policies, secure authentication, safe handling of sensitive data, as well as  avoiding social engineering and unintentional data exposure.</p>
+
+<b>Governance</b>
+<p>The General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA) are recently developed regulations with stringent data protection and privacy standards. Sparrow cares about your data protection and privacy and takes the extra steps to meet the requirements of the GDPR and the CCPA. However, we are not mandated to meet either of these regulations for the following reasons:</p>
+<p>GDPR. The GDPR regulates data controllers that collect or process personal data from European Union residents. Because Sparrow currently only collects and processes personal data within the United States, it is not regulated under GDPR.</p>
+<p>CCPA. For-profit legal entities doing business in California must comply with the CCPA if they have $25 million or more of annual revenue; or possess the personal data of more than 50,000 “consumers, households or devices”; or earn more than half of its annual revenue selling consumers’ personal data. Because Sparrow <b>does not sell</b> our clients’ employee personal data, nor do we have the revenue or personal data volume, we do not meet the CCPA requirements to mandate compliance.</p>
+
 <b>Secure connections.</b>
 <p>Sparrow forces HTTPS connections on our public website and client dashboards, as well as our internal dashboards used by our Product Specialists and Engineers.</p>
 
-<b>How do we handle encryption?</b>
-<p>Highly-sensitive PII fields such as social security numbers are encrypted at rest within the database with decryption keys not stored in the database — only in memory.</p>
+<b>Encryption</b>
+<p>Highly-sensitive PII fields (i.e. drivers’ license number, social security number) are encrypted at rest within the database with decryption keys stored separately from the database.</p>
 
-<b>What is our policy on data retention?</b>
-<p>We retain all data on active clients and reserve a 90-day retention window after ending a contract with a client for bookkeeping and internal assessment purposes. After the 90-day retention period we delete all PII from our databases. Records may be kept in offline archived copies of databases.</p>
+<b>Data retention policy</b>
+<p>We typically retain all data on active clients and reserve a 90-day retention window after ending a contract with a client for bookkeeping and internal assessment purposes. Deleted data may remain in backups of databases.</p>
 
-<b>Comprehensive Data Backups.</b>
-<p>We <b>back up our database fully once a day</b>, and <b>log all field level changes</b> to enable migrations to specific intra-day states.</p>
+<b>Comprehensive Data Backup</b>
+<p>We backup our database fully once a day, and log field level changes to enable migrations to specific intra-day states.</p>
 
-<b>Who has access to your data?</b>
+<b>Data Access</b>
 <ul>
-  <li><b>Your Employees</b> are only able to access their own information and select public fields and uploads their organizations allow for.</li>
-  <li><b>Your Organization Admins</b> are only allowed access to certain non-PII, essential fields about employees. Our goal is not to expose any private or unnecessary information about employees to organizations without cause. (including but not limited to personal addresses, social security numbers of employees and children, personal non-work income, etc.).</li>
-  <li><b>Sparrow Product Specialists</b> have monitored access to information on employees for organizations that they partner with.</li>
-  <li><b>Sparrow Engineers</b> have the same privileges as product specialists, and are subject to the same monitored access of data ingress and egress.</li>
-  <li>All access to the platform is done using Sparrow corporate devices that have remote deletion capabilities.</li>
+  <li>Client employees added to the Sparrow dashboard are only authorized to see their own data and data shared with them by the company or Sparrow product specialists.</li>
+  <li>Client organizations are, through the Sparrow dashboard, only  authorized to see their own data, certain authorized employee data, and data shared with them by Sparrow product specialists.</li>
+  <li>Sparrow product specialists have access to organization and employee data.</li>
+  <li>Only lead Sparrow software engineers have access to all data on the dashboard, such being necessary for them to perform maintenance and administration.</li>
+  <li>Sparrow employees access the platform using Sparrow corporate devices that are encrypted and have remote deletion capabilities among other security controls.</li>
 </ul>
+
+<p>The details of our security implementation may evolve to address current threats, changes in standards, and our business environment, so if you have any questions about our most recent implementation of these policies, please direct your inquiry to security@trysparrow.com.</p>
