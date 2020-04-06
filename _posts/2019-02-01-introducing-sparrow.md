@@ -17,7 +17,7 @@ Sparrow is a software-based service that is the simplest way for companies to pr
 
 ## Extended Leave: A Challenging Process for Employers and Employees
 
-There's no denying that the process of going on leave presents challenges, especially for small companies. An employee is trying to deal with a life adjustment and is handed a stack of paper work and vague instructions while the employer tries to navigate a maze of legal requirements.</p>
+There's no denying that the process of going on leave presents challenges, especially for small companies. An employee is trying to deal with a life adjustment and is handed a stack of paper work and vague instructions while the employer tries to navigate a maze of legal requirements.
 
 Deborah Hanus founded Sparrow to provide a solution for managing leave at companies, a major pain point for employees and employers alike.
 
