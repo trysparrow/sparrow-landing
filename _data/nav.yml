@@ -1,5 +1,5 @@
 - label: "Login"
-  url: "/login"
+  url: "https://app.trysparrow.com/start/"
 
 - label: "Careers"
   url: "/careers"
