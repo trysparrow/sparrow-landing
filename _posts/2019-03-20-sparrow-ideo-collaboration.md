@@ -2,8 +2,7 @@
 layout: post
 title: "Sparrow & IDEO Collaboration"
 authors:
- - debh
- - bric
+ - spar
 mins_read: "3"
 description: "Check out these behind-the-scene photos!"
 banner: "../world/ideo-collab/ideo-collab-4.jpeg"
