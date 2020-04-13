@@ -74,17 +74,6 @@ Workers who are independent contractors under the Fair Labor Standards Act (FLSA
 
 Yes, we recommend Payroll setting up FFCRA codes to track the EPSL and EFMLEA leave benefits that have been paid out to qualified employees. You will also need to ensure that you require documentation and retain them for your IRS tax refund. 
 
-## Are employers required to post any state-regulations (specifically for CA, NY, WA) related to COVID-19?
-
-For FFCRA, employers are required to post a notice by April 1, 2020 in places where other required employment postings are located. You can obtain the notice at [the Department of Labor’s website](https://www.dol.gov/sites/dolgov/files/WHD/posters/FFCRA_Poster_WH1422_Non-Federal.pdf). For more information regarding the notice requirements, please see [the DoL Frequently Asked Questions page](https://www.dol.gov/agencies/whd/pandemic/ffcra-poster-questions). 
-
-Aside from FMLA/FFCRA (federally mandated), and paid sick leave (as it applies to a company’s state and business), there are no other required notices for state regulations related to COVID-19. 
-
-For example, NY employers are required to post:
-- [FMLA Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf)
-- [FFCRA/EFMLEA Poster](https://www.dol.gov/sites/dolgov/files/WHD/posters/FFCRA_Poster_WH1422_Non-Federal.pdf)
-- [NY Paid Sick Leave Notice](https://paidfamilyleave.ny.gov/system/files/documents/2020/03/obtaining-order-of-quarantine.pdf)
-
 ## How has Sparrow updated their processing procedures related to the new laws?
 
 Sparrow is keeping a watchful eye as states continue to roll out support services in response to COVID-19. As experts in leave management, we’re able to easily incorporate COVID-19 related logistics and paperwork into our streamlined process. This includes EFMLEA/FFCRA tracking, alerts for updated emergency state regulations, payroll calculations, and state/federal benefits paperwork.
