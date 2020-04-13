@@ -2,8 +2,7 @@
 layout: post
 title: "Introducing Sparrow"
 authors:
- - debh
- - bric
+ - spar
 mins_read: "3"
 description: "The simplest way to provide employees with seamless leave."
 banner: "reading.jpg"

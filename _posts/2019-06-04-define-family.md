@@ -2,7 +2,7 @@
 layout: post
 title: "How Can We Define 'Family'?"
 authors:
- - krye
+ - spar
 mins_read: "5"
 description: "Understanding Parental Leave Rights of LGBTQ+ Families"
 preview: "LGBTQFamily.jpeg"
