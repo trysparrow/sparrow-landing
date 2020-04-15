@@ -2,8 +2,7 @@
 layout: post
 title: "How to Build a Mother's Room on a Budget"
 authors:
- - antr
- - krye
+ - spar
 mins_read: "5"
 description: "For new moms, returning to work can be a challenge. Luckily, the state of California requires..."
 preview: "mothers-room-bottle.jpeg"
