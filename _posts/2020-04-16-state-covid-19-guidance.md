@@ -18,80 +18,80 @@ Here, we will review state resources and address common questions for states we 
 
 <h2 id="Overview of State-Specific Regulations and State Resources">Overview of State-Specific Regulations and State Resources</h2>
 
-<table cellpadding="10">
+<table class="outline-rows" cellpadding="10">
   <tr>
     <th>State</th>
     <th>Regulations</th>
     <th>Employee Wage Replacement Resources</th>
   </tr>
-  <tr>
+  <tr style="background-color:#f7f7f7">
     <td>New York</td>
     <td>
-    	<p>
+    	<span>
     		Depending on the size and type of business, employers must provide job protection and respective amounts of paid sick leave.
-    	</p> 
-		<p>
+    	</span> 
+		<span>
 			Small businesses (<11 employees) must provide:
 			<ul>
 				<li>Job Protection</li>
 			</ul> 
-		</p>
-		<p>
+		</span>
+		<span>
 			Medium businesses (11-99 employees), Large businesses (100+ employees) & Public Employers must provide:
 			<ul>
 				<li>Job Protection</li>
 				<li>At least 14 days of paid sick leave</li>
 			</ul>
-		</p>
+		</span>
 </td>
 <td>
-	<p>
+	<span>
 		NYS Paid Family Leave (PFL) and Disability Benefits (DB):
 		<ul>
-				<li>DB and NYS PFL benefits combined are capped at $2,884.62/week.</li>
-				<li>No unpaid waiting period for either benefit.</li>
-				<li>Remote employees or employees who can work through other means are not eligible to receive these benefits.</li>
-			</ul>
-	</p>	
+			<li>DB and NYS PFL benefits combined are capped at $2,884.62/week.</li>
+			<li>No unpaid waiting period for either benefit.</li>
+			<li>Remote employees or employees who can work through other means are not eligible to receive these benefits.</li>
+		</ul>
+	</span>	
 </td>
   </tr>
   <tr>
     <td>California</td>
     <td>
-    	<p>
+    	<span>
     		California's Department of Industrial Relations published <a href="https://www.dir.ca.gov/dlse/2019-Novel-Coronavirus.htm">FAQs on laws enforced by the California Labor Commissioner's Office.</a>
-    	</p>
-    	<p>
+    	</span>
+    	<span>
     		The FAQs address various issues such as paid sick leave.
-    	</p>
+    	</span>
 
 </td>
     <td>
-    	<p>
+    	<span>
     		CA EDD Unemployment Insurance (UI),  State Disability Insurance (SDI) or Paid Family Leave (PFL) Benefits:
     		<ul>
     			<li>60-70% of wages capped at $1,300/week.</li>
     		</ul>
-    	</p>
+    	</span>
 	</td>
   </tr>
-  <tr>
+  <tr style="background-color:#f7f7f7">
     <td>Washington</td>
     <td>
-    	<p>
+    	<span>
     		Washington does not have specific Covid-19 regulations at this time.
-    	</p>
+    	</span>
     </td>
     <td>
-    	<p>
+    	<span>
     		WA Paid Family & Medical Leave (WA PFML) Benefits:
 	    	<ul>
 	    		<li>12 weeks of paid leave capped at $1,000/week.</li>
 	    	</ul> 
-		</p>
-		<p>
+		</span>
+		<span>
 			WA Employment Security Development (WA ESD) Benefits
-		</p>
+		</span>
 	</td>
   </tr>
 </table>
