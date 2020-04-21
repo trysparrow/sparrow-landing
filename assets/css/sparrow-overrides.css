@@ -149,3 +149,9 @@ html, body {
     background-size:cover;
     background-position:center 0;
 }
+
+table.outline-rows tr {
+  /*border-width: thin;
+  border-style: solid;*/
+  vertical-align: top;
+}
