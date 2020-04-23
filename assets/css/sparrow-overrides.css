@@ -150,8 +150,12 @@ html, body {
     background-position:center 0;
 }
 
+table.outline-rows {
+  font-family: ;
+  font: grey;
+  line-height: 1.2;
+}
+
 table.outline-rows tr {
-  /*border-width: thin;
-  border-style: solid;*/
   vertical-align: top;
 }

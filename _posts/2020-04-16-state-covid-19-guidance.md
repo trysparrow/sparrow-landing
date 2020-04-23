@@ -29,7 +29,8 @@ Here, we will review state resources and address common questions for states we 
     <td>
     	<span>
     		Depending on the size and type of business, employers must provide job protection and respective amounts of paid sick leave.
-    	</span> 
+    	</span>
+        <br><br>
 		<span>
 			Small businesses (<11 employees) must provide:
 			<ul>
