@@ -9,3 +9,15 @@
 
 - label: "Customer Stories"
   url: "/customer-stories"
+
+- label: "Privacy"
+  url: "/privacy"
+  footer_only: true
+
+- label: "Security"
+  url: "/security"
+  footer_only: true
+
+- label: "Terms"
+  url: "/terms"
+  footer_only: true
