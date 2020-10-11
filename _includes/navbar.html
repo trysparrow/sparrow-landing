@@ -1,8 +1,8 @@
 <nav
   class="navbar navbar-expand-lg
-	{% if page.opaque_navbar %} navbar-light
-	{% else %} navbar-dark bg-transparent
-	{% endif %}"
+  {% if page.opaque_navbar %} navbar-light
+  {% else %} navbar-dark bg-transparent
+  {% endif %}"
   role="navigation">
   <div class="container no-override">
     <a
@@ -26,6 +26,8 @@
       class="collapse navbar-collapse justify-content-end">
       <ul class="navbar-nav">
         {% for link in site.data.nav %}
+        {% if link.footer_only %}
+        {% else %}
           <li class="nav-item active">
             <a
               class="nav-link"
@@ -33,6 +35,7 @@
               {{ link.label }}
             </a>
           </li>
+        {% endif %}
         {% endfor %}
       </ul>
     </div>
