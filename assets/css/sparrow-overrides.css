@@ -170,3 +170,7 @@ ul {
   margin: auto;
   font-weight: bold;
 }
+
+.blog-post-content img {
+  width: 100%;
+}
