@@ -166,6 +166,7 @@ ul {
 }
 
 blockquote {
+  width: 50%;
   margin: auto;
   font-weight: bold;
 }
