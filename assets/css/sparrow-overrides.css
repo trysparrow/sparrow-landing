@@ -166,14 +166,14 @@ ul {
 }
 
 /* Style distinctly, similar to Pilot<>Sparrow post but without html */
-blockquote {
+.blog-post-content blockquote {
   width: 50%;
   margin: auto;
 }
 
-blockquote p {
+.blog-post-content blockquote p {
   font-weight: bold;
   font-size: 1rem;
-  line-height: 1;
+  line-height: 1.2;
   color: #212529;
 }
