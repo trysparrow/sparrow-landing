@@ -159,3 +159,13 @@ table.outline-rows {
 table.outline-rows tr {
   vertical-align: top;
 }
+
+ul {
+  /* make list text the same color as <p> */
+  color: #6b6b6b;
+}
+
+blockquote {
+  margin: auto;
+  font-weight: bold;
+}
