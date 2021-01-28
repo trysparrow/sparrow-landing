@@ -166,10 +166,11 @@ ul {
 }
 
 blockquote {
-  /* Style distinctly, similar to Pilot<>Sparrow post without html */
+  /* Style distinctly, similar to Pilot<>Sparrow post but without html */
   width: 50%;
   margin: auto;
   font-weight: bold;
   font-size: 1rem;
-  color: #212529;
+  line-height: 1;
+  color: black;
 }
