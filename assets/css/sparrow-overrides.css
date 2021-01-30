@@ -151,11 +151,26 @@ html, body {
 }
 
 table.outline-rows {
-  font-family: ;
   font: grey;
   line-height: 1.2;
 }
 
 table.outline-rows tr {
   vertical-align: top;
+}
+
+ul {
+  /* make list text the same color as <p> */
+  color: #6b6b6b;
+}
+
+/* Style distinctly, similar to Pilot<>Sparrow post but without html */
+.blog-post-content blockquote {
+  width: 50%;
+  margin: auto;
+  font-weight: bold;
+}
+
+.blog-post-content img {
+  width: 100%;
 }
