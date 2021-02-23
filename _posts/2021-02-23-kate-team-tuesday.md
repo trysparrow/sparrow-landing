@@ -31,8 +31,10 @@ I had been searching for a new career opportunity within the healthcare or HR te
 
 ### Fun Facts
 * My career path has been in the healthcare industry, Human Resources and Massage Therapy. 
-* My favorite music genre is Metal (i.e Igorrr, Dir En Grey, Septicflesh, etc). [should we add links?]
+* My favorite music genre is Metal (i.e Igorrr, Dir En Grey, Septicflesh, etc).
 * I last binge-watched Lupin and Fate: The Winx Saga. I’m a huge fan of supernatural dramas (no matter how cheesy), mysteries and action packed shows.
 
 ### COVID Hobbies
 I have tried and failed at two cooking experiments: making fermented slaw and gluten free bread! I generally do alright at cooking but those two have become my arch nemesis. Also, everyone should have an arch nemesis! 
+
+Want to join our team? Check out our [careers page](https://trysparrow.com/careers) and apply!
