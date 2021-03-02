@@ -4,10 +4,10 @@ title: "Meet the Team Tuesday: Brad"
 authors:
  - spar
 mins_read: "1"
-description: "#TeamTuesday meet Brad!"
-preview: "../faces/kate.jpg"
+description: "#TeamTuesday: Meet Brad, Customer Operations!"
+preview: "../faces/brad.jpg"
 banner: "../world/team_photo.png"
-permalink: "/blog/meet-brad\\\\"
+permalink: "/blog/meet-brad"
 ---
 
 <style>
