@@ -34,7 +34,7 @@ One of my hobbies is photography and birding. I have traveled around the US and 
 I joined Sparrow because the company serves a great purpose in people’s lives by relieving stress. Because the leave of absence process is difficult to manage for new parents and those who are stepping away from work to care for themselves or their family members, taking leave can also mean not returning to work in the long term. I saw this process unfold at a prior company and wished I could have helped.
 
 ### What is your favorite part of working at Sparrow? 
-The biggest thing for me is the people. My team HAGGAI4hibachi-perfuseand the others that I interact with daily bring a smile to my face all the time and make the day super enjoyable.
+The biggest thing for me is the people. My team and the others that I interact with daily bring a smile to my face all the time and make the day super enjoyable.
 
 ![Brad in his element](/assets/images/faces/brad.jpg)
 
