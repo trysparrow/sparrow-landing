@@ -7,7 +7,7 @@ mins_read: "1"
 description: "#TeamTuesday: Meet Brad, Customer Operations!"
 preview: "../faces/brad.jpg"
 banner: "../world/team_photo.png"
-permalink: "/blog/meet-brad\\\\"
+permalink: "/blog/meet-brad"
 ---
 
 <style>
