@@ -21,3 +21,7 @@
 - label: "Terms"
   url: "/terms"
   footer_only: true
+
+- label: "Releases"
+  url: "https://sparrow.releases.live/"
+  footer_only: true
